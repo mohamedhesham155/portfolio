@@ -7,15 +7,15 @@ export const profile = {
     "I bridge the shop floor and the codebase — turning manufacturing processes into software that runs them better.",
   location: "Alexandria, Egypt",
   // TODO: replace with your real links before deploying
-  email: "your-email@example.com",
-  linkedin: "",
-  github: "",
+  email: "mohamedhesham291@yahoo.com",
+  linkedin: "https://linkedin.com/in/mohamed-hesham",
+  github: "https://github.com/mohamedhesham155",
   portfolio: "https://mohamedhesham.online",
 };
 
 export const about = {
   paragraphs: [
-    "I graduated from Alexandria University with a Bachelor's degree in Production & Industrial Engineering, and I currently work as a Production Engineer at Elsewedy Electric, focused on steel wire drawing processes for Tire Bead Wire production.",
+    "I graduated from Alexandria University with a Bachelor's degree in Production & Industrial Engineering, and I currently work as a Production Engineer at Elsewedy Steel, focused on steel wire drawing processes for Tire Bead Wire production.",
     "My work sits at the intersection of manufacturing engineering and software development — lean manufacturing, process optimization and root cause analysis on one side, Python and web development on the other. I believe every repetitive industrial process can be simplified through technology, and I build the tools to prove it.",
   ],
   focus: [
@@ -31,7 +31,7 @@ export const about = {
 export const experience = [
   {
     role: "Production Engineer",
-    org: "Elsewedy Electric",
+    org: "Elsewedy Steel",
     period: "Current",
     summary:
       "Steel wire drawing processes for Tire Bead Wire production (72A / 82A high-carbon grades).",
