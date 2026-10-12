@@ -8,7 +8,7 @@ export const profile = {
   location: "Alexandria, Egypt",
   // TODO: replace with your real links before deploying
   email: "mohamedhesham291@yahoo.com",
-  linkedin: "https://linkedin.com/in/mohamed-hesham",
+  linkedin: "https://www.linkedin.com/in/mohamed-heesham",
   github: "https://github.com/mohamedhesham155",
   portfolio: "https://mohamedhesham.online",
 };
@@ -137,8 +137,8 @@ export const languages = [
 ];
 
 export const dieDraws = [
-  { d: 6.5, label: "6.5mm" },
-  { d: 5.0, label: "5.0mm" },
+  { d: 6.5, label: "5.5mm" },
+  { d: 5.0, label: "4.8mm" },
   { d: 3.5, label: "3.5mm" },
-  { d: 2.2, label: "2.2mm" },
+  { d: 2.2, label: "2.0mm" },
 ];
